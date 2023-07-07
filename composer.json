@@ -1,20 +1,24 @@
 {
-    "name": "liqueurdetoile/cakephp-fuse",
-    "description": "Cakephp 3/4 plugin that implements fuzzy search based on Fuse",
+    "name": "darkbox/cakephp-fuse",
+    "description": "Cakephp 4 plugin that implements fuzzy search based on Fuse",
     "type": "cakephp-plugin",
     "license": "MIT",
     "authors": [
         {
             "name": "Liqueur de Toile",
             "homepage": "https://liqueurdetoile.com"
+        },
+        {
+            "name": "RGM",
+            "homepage": "https://github.com/darkbox/"
         }
     ],
     "keywords": [
-      "database",
-      "orm",
-      "fuzzy",
-      "fuse",
-      "filter"
+        "database",
+        "orm",
+        "fuzzy",
+        "fuse",
+        "filter"
     ],
     "scripts": {
         "test": "phpunit",
