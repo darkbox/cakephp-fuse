@@ -21,9 +21,9 @@
         "stan": "phpstan analyse"
     },
     "require": {
-        "php": ">=7.1",
-        "cakephp/cakephp": "^3.5|^4",
-        "loilo/fuse": "^3.6",
+        "php": ">=8.0",
+        "cakephp/cakephp": "^4",
+        "loilo/fuse": "^6.4",
         "adbario/php-dot-notation": "^2.2"
     },
     "require-dev": {
